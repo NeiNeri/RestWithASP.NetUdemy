@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "85a7087b-7ea4-4ade-844c-37329b4a2d01": {
+      "ProjectGuid": "85a7087b-7ea4-4ade-844c-37329b4a2d01",
+      "DisplayName": "RestWihASPNETUdemy",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }
